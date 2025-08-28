@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/suneel-portfolio/static/css/main.66b13197.css",
+    "main.js": "/suneel-portfolio/static/js/main.bbcbd16d.js",
+    "static/media/sunilphoto.jpg": "/suneel-portfolio/static/media/sunilphoto.63cf950e8999d334bd35.jpg",
+    "index.html": "/suneel-portfolio/index.html",
+    "main.66b13197.css.map": "/suneel-portfolio/static/css/main.66b13197.css.map",
+    "main.bbcbd16d.js.map": "/suneel-portfolio/static/js/main.bbcbd16d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66b13197.css",
+    "static/js/main.bbcbd16d.js"
+  ]
+}
